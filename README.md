@@ -1,6 +1,6 @@
 
 
-# **Smart India Hackathon (SIH) – Workshop Submission **
+# Smart India Hackathon (SIH) – Workshop Submission 
 
 ## **Problem Title**
 
